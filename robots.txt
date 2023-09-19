@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryu-min.github.ioo/sitemap.xml
+Sitemap: https://ryu-min.github.io/sitemap.xml
