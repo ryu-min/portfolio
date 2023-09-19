@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ryu-min
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ryu-min/TheTyper
+  - ryu-min/ex
+  - ryu-min/qshapy
