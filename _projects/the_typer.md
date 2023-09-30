@@ -18,30 +18,8 @@ The goal of the project is to provide users with a tool to improve their typing 
 
 The project is open-source and contributions are welcome from the community
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/main_page.png" title="The Typer main page" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The Typer main page
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/typing_page.png" title="The Typer typing page" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The Typer typing page
-</div>
-
+<img src="../../assets/img/typer.gif" alt="TheTyper demo" style="max-width: 100%;">
 
 ### How to
 To use TheTyper, both TyperDesktop and TyperWord must be running locally. TyperDesktop connects to TyperWord to retrieve typing exercises and submit results.
-
-
-
-
 
